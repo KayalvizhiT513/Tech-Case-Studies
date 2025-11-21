@@ -1,1 +1,1 @@
-# Team-Case-Studies
+# Tech-Case-Studies
