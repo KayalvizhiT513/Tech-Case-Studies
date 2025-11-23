@@ -1,1 +1,1 @@
-# Tech-Case-Studies
+# Tech Case Studies
